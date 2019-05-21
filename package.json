@@ -1,0 +1,14 @@
+{
+  "name": "simpleproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Landing page",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Laimonas Ciurlionis",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
